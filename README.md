@@ -1,4 +1,4 @@
-# Platform Commons Assignment
+# Student Management System
 
 <!-- ============================================  STUDENT MANAGEMENT SYSTEM ======================================================  -->
 
